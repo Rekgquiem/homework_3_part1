@@ -1,0 +1,29 @@
+.body {
+  background-color: #d8e8e4;
+}
+
+.table {
+  font-size: 14px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.for_th_font_up_and_left {
+  font-family: 'Gochi Hand', cursive;
+  background: #66ab30;
+  color: #FFFFFF;
+  padding: 10px 15px;
+}
+
+.for_all_another_th {
+  font-family: 'Mukta Vaani', sans-serif;
+  background: #eaecee;
+  color: #66b629;
+  padding: 10px 15px;
+}
+
+.for_all_another_th, .for_th_font_up_and_left {
+  border-style: solid;
+  border-width: 0 2px 2px 0;
+  border-color: #54892a;
+}
